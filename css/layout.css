@@ -330,20 +330,20 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: android 2s ease;
   	-webkit-animation: android 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
+.ruby {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: ruby 2s ease;
+  	-webkit-animation: ruby 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+.software_engineering {
+  	width: 50%;
+  	-moz-animation: software_engineering 2s ease;
+  	-webkit-animation: software_engineering 2s ease;
+}
+.information_security {
+  	width: 60%;
+  	-moz-animation: information_security 2s ease;
+  	-webkit-animation: information_security 2s ease;
 }
 .html5 {
   	width: 80%;
@@ -360,17 +360,17 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
+@-moz-keyframes ruby {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-moz-keyframes css {
+@-moz-keyframes software_engineering {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
+}
+@-moz-keyframes information_security {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -385,17 +385,17 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
+@-webkit-keyframes ruby {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
-@-webkit-keyframes css {
+@-webkit-keyframes software_engineering {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes information_security {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
